@@ -1,7 +1,7 @@
 
 class Aritmetica:
 
-    def __init__(self,numero1,numero2):
+    def __init__(self,numero1=None,numero2=None): #Asignar el valor None para poder crear objetos sin parametros iniciales
         self.numero1 = numero1
         self.numero2 = numero2
 
