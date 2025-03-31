@@ -1,3 +1,6 @@
+#clase abstracta
+#ABC = Abstrac Base Class
+from abc import ABC,abstractmethod
 class Figura_Geometrica:
 
     def __init__(self,ancho,alto):
@@ -12,6 +15,10 @@ class Figura_Geometrica:
         Ancho : {self._ancho}
         Alto : {self._alto}
         '''
+
+    #metodo abstracto
+    def calcular(self):
+        pass
 
     @property
     def ancho(self):
