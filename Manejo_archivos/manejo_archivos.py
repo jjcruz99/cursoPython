@@ -11,6 +11,5 @@ class Manejo_Archivos:
 
     def __exit__(self, exc_type, exc_val, exc_tb):
         print('Cerramos el recurso'.center(50,'-'))
-
         if self.nombre : ## si el archivo aun aesta apuntando a un objeto o esta abierto
             self.nombre.close()
