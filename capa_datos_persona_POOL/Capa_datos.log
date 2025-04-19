@@ -360,3 +360,8 @@
 11:38:43 AM: DEBUG [cursor_del_pool.py:24] Commit de la transacción
 11:38:43 AM: DEBUG [conexion.py:46] Regresa la conexion al pool : <connection object at 0x00000235756CADF0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
 11:38:43 AM: DEBUG [persona_dao.py:71] 0
+01:26:41 PM: DEBUG [logger_base.py:13] Mensaje a nivel de debug
+01:26:41 PM: INFO [logger_base.py:14] Mensaje a nivel de info
+01:26:41 PM: WARNING [logger_base.py:15] Mensaje a nivel de warning
+01:26:41 PM: ERROR [logger_base.py:16] Mensaje a nivel de error
+01:26:41 PM: CRITICAL [logger_base.py:17] Mensaje a nivel de critical

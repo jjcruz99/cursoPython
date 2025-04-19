@@ -1,0 +1,5 @@
+
+instalar modulo para postgresSQL
+
+pip install psycopg2
+
