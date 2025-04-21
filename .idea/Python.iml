@@ -5,6 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/BD/Leccion1/venv/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/DB_usuarios/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/DB_MySQL/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

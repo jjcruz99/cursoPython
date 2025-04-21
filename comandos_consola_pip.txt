@@ -1,5 +1,19 @@
 
-instalar modulo para postgresSQL
+***********instalar modulo para postgresSQL
 
 pip install psycopg2
+
+
+****************instlar libreria para MySQL
+
+python -m pip install mysql-connector-python
+
+
+
+*****************************actualizar pip
+
+python -m pip install --upgrade pip
+
+
+
 
