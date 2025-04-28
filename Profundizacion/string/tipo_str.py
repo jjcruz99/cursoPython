@@ -55,3 +55,4 @@ print(lista_cursos)
 print('\nSepara solo los elementos segun la cantidad espescificada')
 lista_cursos = curosos.split(',',2)#en este caso 0,1,2+3+4
 print(lista_cursos)
+
