@@ -10,6 +10,3 @@ class Persona:
 if __name__ == '__main__':
     persona1 = Persona('Juan','Suarez')
     print(persona1)
-
-def mostrar_mensaje(mensaje):
-    print(mensaje)
