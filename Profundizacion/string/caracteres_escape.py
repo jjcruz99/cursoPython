@@ -22,10 +22,7 @@ print('Notacion simple: ','\u0041')
 print('Notacion extendidad: ','\U00000041')
 print('Notacion hexadecimal: ','\x41')
 
-print('\u2665')
-print('\U0001f600')
-print('\U0001f975')
-print("\U00002620")
+
 
 
 
