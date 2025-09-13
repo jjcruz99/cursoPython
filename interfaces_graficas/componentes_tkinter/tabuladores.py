@@ -31,7 +31,7 @@ def crear_componentes_tabulador3(tabulador3):
     combobox = ttk.Combobox(tabulador3, width=15, values=datos)
     combobox.grid(row=0,column=0,padx=10,pady=10)
     #elemento por default
-    combobox.current(0)
+    combobox.current(5)
     #agregar botton para saber que selecciono
     def mostrar():
         messagebox.showinfo('Mostrar',f'{combobox.get()}')
